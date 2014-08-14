@@ -16,7 +16,7 @@
     "url": "https://github.com/ria-com/node-memcache-adapter.git"
   },
   "keywords": [
-    "memcacache",
+    "memcache",
     "nodejs",
     "adapter",
     "config"
