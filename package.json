@@ -1,0 +1,30 @@
+{
+  "name": "node-memcache-adapter",
+  "version": "0.0.0",
+  "description": "Node js memcache adapter with config module integration",
+  "main": "./lib/memcache.js",
+  "dependencies": {
+    "config": "^1.0.2",
+    "memcached": "^0.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ria-com/node-memcache-adapter.git"
+  },
+  "keywords": [
+    "memcacache",
+    "nodejs",
+    "adapter",
+    "config"
+  ],
+  "author": "SamhainG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ria-com/node-memcache-adapter/issues"
+  },
+  "homepage": "https://github.com/ria-com/node-memcache-adapter"
+}
