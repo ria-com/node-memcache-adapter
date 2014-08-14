@@ -4,7 +4,7 @@
   "description": "Node js memcache adapter with config module integration",
   "main": "./lib/memcache.js",
   "dependencies": {
-    "config": "^1.0.2",
+    "config": "*",
     "memcached": "^0.2.8"
   },
   "devDependencies": {},
